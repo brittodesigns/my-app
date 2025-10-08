@@ -47,7 +47,7 @@
     "extra": {
       "firebaseApiKey": "AIzaSyD7LIIAIFbg_E1xJkBLH5df1XJ2zIwdaag",
       "firebaseAuthDomain": "directory-app-635ed.firebaseapp.com",
-      "firebaseProjectId": "directory-app-635ed",
+      "firebaseProjectId": "demo-project",
       "firebaseStorageBucket": "directory-app-635ed.firebasestorage.app",
       "firebaseMessagingSenderId": "285582100649",
       "firebaseAppId": "1:285582100649:web:8ff98be50df904798d81b8"
